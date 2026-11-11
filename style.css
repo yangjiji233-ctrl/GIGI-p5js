@@ -1,0 +1,30 @@
+html,body{
+    margin:0;
+    padding:0;
+
+}
+h1{
+    color:blueviolet;
+     
+}
+.redpara{
+    color:crimson;
+}
+.bluepara{
+    color:blue;
+}
+#myname{
+    color:rgb(0, 0, 0);
+}
+#gigi_css_button{
+    border:0cm;
+    border-radius:10px;
+    background-color:blueviolet;
+    border-bottom:4px solid #666;
+
+}
+
+#gigi_css_button:hover{
+    background-color:chartreuse;
+    border-bottom:4px solid #333;
+}
